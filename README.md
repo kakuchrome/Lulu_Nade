@@ -11,7 +11,11 @@
   
 2.&nbsp;[Releases](https://github.com/Luke-514/Lulu_Nade/releases/latest)からLulu_Nade.unitypackageをダウンロードして、プロジェクトにインポートします  
   
-3.&nbsp;Assets>Lulu_Tail_Moveの中にあるTail_Move.prefabをアバター直下に追加します  
+3.&nbsp;Assets>Lulu_Nadeの中にあるLulu_nade.prefabをアバター直下に追加します  
+<img src="image/Tail_Move.prefab配置場所.png" width="20%" />  
+  
+4.&nbsp;Assets>Lulu_Nadeの中にあるHead_Contact.prefabとMuzzle_Contact.prefabを  
+&emsp;Armature→Hips→Spine→Chest→Neck→Headの中に追加します  
 <img src="image/Tail_Move.prefab配置場所.png" width="20%" />  
   
 # 免責事項
