@@ -18,6 +18,11 @@
 &emsp;**Armature→Hips→Spine→Chest→Neck→Head**の中に追加します  
 <img src="image/Prefab配置.png" width="30%" />  
   
+# 参考
+ケーキのPC情報集会所  
+【VRChat】撫でられたら喜んじゃう！Contact機能を使ってみた！  
+https://keiki002.com/vr/vrchat-contact/  
+  
 # 免責事項
 本アセットの使用によって発生した、いかなる損害に対しても作者は一切の責任を負いません  
   
