@@ -9,7 +9,7 @@
 # 導入手順
 1.&nbsp;[Modular Avatar](https://modular-avatar.nadena.dev/ja)をプロジェクトに追加します  
   
-2.&nbsp;[Releases](https://github.com/Luke-514/Lulu_Tail_Move/releases/latest)からTail_Move.unitypackageをダウンロードして、プロジェクトにインポートします  
+2.&nbsp;[Releases](https://github.com/Luke-514/Lulu_Nade/releases/latest)からLulu_Nade.unitypackageをダウンロードして、プロジェクトにインポートします  
   
 3.&nbsp;Assets>Lulu_Tail_Moveの中にあるTail_Move.prefabをアバター直下に追加します  
 <img src="image/Tail_Move.prefab配置場所.png" width="20%" />  
