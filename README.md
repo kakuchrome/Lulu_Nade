@@ -13,10 +13,8 @@
 2.&nbsp;[Releases](https://github.com/Luke-514/Lulu_Nade/releases/latest)からLulu_Nade.unitypackageをダウンロードして、プロジェクトにインポートします  
   
 3.&nbsp;Assets>Lulu_Nadeの中にある**Lulu_nade.prefab**をアバター直下に追加します  
-  
-4.&nbsp;Assets>Lulu_Nadeの中にある**Head_Contact.prefab**と**Muzzle_Contact.prefab**を  
-&emsp;**Armature→Hips→Spine→Chest→Neck→Head**の中に追加します  
-<img src="image/Prefab配置.png" width="30%" />  
+
+<img src="image/Prefab配置_仮.png" width="30%" />  
   
 # 参考
 ケーキのPC情報集会所  
